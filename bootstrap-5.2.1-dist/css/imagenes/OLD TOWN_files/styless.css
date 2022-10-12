@@ -1,0 +1,63 @@
+.bg-color {
+    background-color:rgb(1, 0, 2);
+}
+
+.title {
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    height: 90vh !important;
+    background: url(./imagenes/bar-.jpeg) no-repeat center ;
+    background-size: cover;
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+    width: 100%;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.slogan{
+   
+   padding-top: 340px;
+   text-align: center; 
+    
+}
+
+
+.btn {
+    background-color: rgb(241, 191, 12);
+    border-radius: 10px;
+    box-shadow: 3px 3px #fff
+
+}
+
+.btn:hover{
+    background-color: rgb(241, 170, 18);
+}
+
+.whiskeys{
+    display: flex;
+    align-items: flex-end;
+    background-color: aqua;
+    padding-top: 100px;
+
+}
+
+.titulo{
+    
+}
+
+.secc-whiskeys {
+    padding-left:20px;
+   
+    text-align: left;
+    background-color: crimson;
+    
+}
+
+
+
+

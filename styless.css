@@ -1,0 +1,167 @@
+.bg-color {
+    background-color:rgb(1, 0, 2);
+}
+
+
+
+header {
+    height: 90vh !important;
+    background: url(./imagenes/bar-.jpeg) no-repeat center ;
+    background-size: cover;
+    
+}
+
+.bg-cafe{
+    background-color:  rgb(174, 157, 121);
+
+}
+
+
+
+
+
+
+
+.seccion  {
+    padding-left:14px;
+   
+    margin: -15px;
+}
+
+.titulo-cerveza{
+    text-align: left;
+    background-color: rgb(158, 185, 162);
+    padding-left: 20px;
+    color: rgb(51, 29, 1);
+    margin-top: 15px;
+    margin-bottom: 15;
+}
+
+section {
+    flex-wrap: wrap;
+    margin: 15px;
+}
+
+
+.card {
+    margin: 10px;
+    padding-top: -20px;
+
+}
+
+.bebida-cerve{
+    display: flex;
+    align-items: center;
+    background-color:rgb(158, 185, 162);
+    text-align:center
+    
+
+}
+
+.bebida-cerve {
+    margin: 10px;
+    margin-top: 12px;
+}
+
+.bebida-cerve {
+    margin: 10px;
+    margin-top: 12px;
+}
+
+
+
+
+
+
+.bebida-coc {
+    margin: 10px;
+    margin-top: 12px;
+}
+
+.bebida-coc{
+    display: flex;
+    align-items: center;
+    background-color:rgb(168, 211, 241);
+    text-align:center
+    
+
+}
+
+.bebida-coc {
+    margin: 10px;
+    margin-top: 12px;
+}
+
+.titulo-coc{
+    text-align: left;
+    background-color: rgb(168, 211, 241);
+    padding-left: 20px;
+    color: rgb(51, 29, 1);
+    margin-top: 15px;
+    margin-bottom: 15;
+}
+
+
+
+
+
+
+
+.bebida-vino{
+    display: flex;
+    align-items: center;
+    background-color:rgb(218, 203, 237);
+    text-align:center
+    
+
+}
+
+.bebida-vino {
+    margin: 10px;
+    margin-top: 12px;
+}
+
+.titulo-vino{
+    text-align: left;
+    background-color: rgb(218, 203, 237);
+    padding-left: 20px;
+    color: rgb(51, 29, 1);
+    margin-top: 15px;
+    margin-bottom: 15;
+}
+
+.btn-footer {
+    
+    background-color: rgb(243, 116, 109);
+    text-align: center;
+    padding: 7px;
+    margin: -60px 500px  30px 500px;
+    color: black;
+
+
+    
+}
+
+
+
+footer{
+    
+    background-color: rgb(103, 102, 100);
+    align-content: space-between;
+    padding: 20px;
+    font-size: 30px;
+    
+}
+
+
+.btn-fot{
+    
+    text-decoration: none;
+    color: black;
+}
+
+
+.btn-footer:hover{
+
+    background-color: rgb(243, 174, 13);
+}
